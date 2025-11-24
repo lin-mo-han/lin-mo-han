@@ -129,8 +129,4 @@
 
 ***
 
-
-
-![Visitor Count](https://profile-counter.glitch.me/lin-mo-han/count.svg)
-
 **感谢您的访问！** 🌟
